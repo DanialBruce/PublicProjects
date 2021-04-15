@@ -9,8 +9,8 @@ Remeber to change the values to you own costume desires and change them accordin
 
 NOTES!:
 
-- in reciever program you can listen for one IP, or leave it as an empty string (or set it to 0.0.0.0) to listen to all packets using defined ports. 
-If for whatever reason the receiver can't receive packets from a source, try the full sender/receiver app first and than try again with the standalone sender program right away. For whatever reason, this seems to fix the issue (atleast it did for me). Perhaps the problem has something to do with the nature of UDP packets.
+- in reciever program, you can listen for one IP or leave it as an empty string (or set it to 0.0.0.0) to listen to all packets using defined ports. 
+If for whatever reason the receiver can't receive packets from a source, try the full sender/receiver app first and than try again with the standalone listener program right away. For whatever reason, this seems to fix the issue (atleast it did for me). Perhaps the problem has something to do with the nature of UDP packets.
 
 - above suggestion could also fix issues with WinError: "The IP is not valid in the corrent context" error. If this error occures, it simpy means your PC (or on whatever device these programs will run) cannot find and reach the specified ip address.
 
@@ -18,7 +18,7 @@ If for whatever reason the receiver can't receive packets from a source, try the
 
 
 
-Hole these come in handy :)
+Hope these come in handy :)
 
 Regards,
 Danial
