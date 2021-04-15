@@ -1,4 +1,4 @@
-This is very simple UDP application based on Socket module of Python.
+These are very simple UDP application based on Socket module of Python.
 
 visit  https://docs.python.org/3/library/socket.html for offcial documentation.
 
