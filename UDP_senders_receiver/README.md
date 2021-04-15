@@ -1,6 +1,6 @@
 These are very simple UDP application based on Socket module of Python.
 
-visit  https://docs.python.org/3/library/socket.html for offcial documentation.
+visit  https://docs.python.org/3/library/socket.html for official documentation.
 
 These programs were used to test communications with OLIMEX MOD-WIFI-ESP8266 module.
 
