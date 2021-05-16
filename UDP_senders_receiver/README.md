@@ -4,7 +4,7 @@ visit  https://docs.python.org/3/library/socket.html for official documentation.
 
 These programs were used to test communications with OLIMEX MOD-WIFI-ESP8266 module.
 
-Remeber to change the values to you own costume desires and change them according to you network and application. Remember to use correct decoder(ASCII, UTC-8 etc)
+Remeber to change the values to you own costume desires and change them according to you network and application. Remember to use correct decoder(ASCII, UTC-8 etc).
 
 
 NOTES!:
